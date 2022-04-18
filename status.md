@@ -24,6 +24,9 @@ So far I've been able to create my own discord bot, been able to go online and r
 
 I've yet to be able to make the bot read a list of quotes off a text file. 
 
+(UPDATE 4/18)
+Still trying to have it read off a text file.
+
 #### What problems, if any, have you encountered?
 
 At the beginning, it was quite confusing how to even import discord since I have to install it first. Another problem was trying to get pip to work. I had to go through my system environment variables.
